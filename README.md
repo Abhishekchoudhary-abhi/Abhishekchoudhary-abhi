@@ -60,31 +60,6 @@ while(alive){
 
 ---
 
-# 🚀 Projects
-
-### 🧠 Image Caption Generator
-
-Deep learning model that generates captions for images using CNN + LSTM trained on Flickr8k.
-
----
-
-### 🩸 BloodCampTracker
-
-Full-stack application for managing blood donation camps.
-
----
-
-### 🔐 JWT Authentication System
-
-Secure REST API using Spring Boot and JWT authentication.
-
----
-
-### 📱 Campus Park
-
-Progressive Web App designed for campus services.
-
----
 
 # 🧩 Fun Developer Stuff
 
